@@ -13,7 +13,7 @@
 
 ![](factorial_logo.png)
 
-We are buidling a DeFi infrastructure called `Factorial`.
+We are buidling a DeFi infrastructure called `Factorial`, which is introduced in BUIDLathon of ETHDenver2023.
 Factorial is a smart contract framework for DeFi builders.
 Factorial enables the DeFi builders to focus on their own key idea.
 
