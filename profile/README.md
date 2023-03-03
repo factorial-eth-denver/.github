@@ -17,6 +17,8 @@ We are buidling a DeFi infrastructure called `Factorial`, which is introduced in
 Factorial is a smart contract framework for DeFi builders.
 Factorial enables the DeFi builders to focus on their own key idea.
 
+Visit the [core repository of Factorial](https://github.com/factorial-eth-denver/factorial-contract).
+
 Check it out more about `Factorial`!
 
 - [Website](https://factorial-1.gitbook.io/factorial) 
