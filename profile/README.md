@@ -21,7 +21,7 @@ Visit the [core repository of Factorial](https://github.com/factorial-eth-denver
 
 Check it out more about `Factorial`!
 
-- [Website](https://factorial-1.gitbook.io/factorial) 
+- [Website](https://factorial.network)
 - [Docs](https://factorial-1.gitbook.io/factorial)
 - [YouTube](https://www.youtube.com/channel/UC8s9PaQbGHehm5dtU_sOJdQ)
 - [Twitter](https://twitter.com/FactorialFi)
